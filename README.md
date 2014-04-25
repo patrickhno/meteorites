@@ -7,7 +7,7 @@ It also attracted the super investor Øysten Stray Spetalen, so all this was a h
 The code is from a time where OpenGL drivers where too buggy for production use unless you had a Silicon Graphics or something,
 so it's all tied up in the terrible Glide 3D API of Voodoo Graphics. The first hardware accelerated 3D cards I laid my hands on.
 
-The graphics is not included, as it's yet to reappear to see the light of day - how sad..
+The graphics is not included, as it has yet to reappear to see the light of day - how sad..
 
 Copyright © 1997-1998 RealityMakers Entertainment AS  
 Copyright © 2014 Patrick Hanevold, Hans Jørgen Kjærnet, Ali Elmasoudi (Founders of RM)
