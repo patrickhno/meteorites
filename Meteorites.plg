@@ -1,0 +1,59 @@
+--------------------Configuration: Meteorites - Win32 Release--------------------
+Begining build with project "C:\develop\projects\Reality\Meteorites\Meteorites.dsp", at root.
+Active configuration is Win32 (x86) Dynamic-Link Library (based on Win32 (x86) Dynamic-Link Library)
+
+Project's tools are:
+			"32-bit C/C++ Compiler for 80x86" with flags "/nologo /G6 /MT /W2 /GX /Z7 /O2 /I ".." /I "../3dapi" /I "../3dapi/Network" /I "../3dapi/Network/Drivers" /I "../Drivers" /I "../Devices" /I "../Devices/Input" /I "../GameServer" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D MAX_PLAYERS=30 /FR"c:\develop\projects\Reality\Objects\i386-vc\Meteorites\Release/" /Fp"c:\develop\projects\Reality\Objects\i386-vc\Meteorites\Release/Meteorites.pch" /YX /Fo"c:\develop\projects\Reality\Objects\i386-vc\Meteorites\Release/" /Fd"c:\develop\projects\Reality\Objects\i386-vc\Meteorites\Release/" /FD /c "
+			"OLE Type Library Maker" with flags "/nologo /D "NDEBUG" /mktyplib203 /o NUL /win32 "
+			"Win32 Resource Compiler" with flags "/l 0x409 /d "NDEBUG" "
+			"Browser Database Maker" with flags "/nologo /o"c:\develop\projects\Reality\Objects\i386-vc\Meteorites\Release/Meteorites.bsc" "
+			"COFF Linker for 80x86" with flags "libc.lib oldnames.lib wsock32.lib libdtimt.lib libsrlmt.lib libdxxmt.lib zlib.lib pnglib.lib glide2x.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /dll /profile /map:"C:\RealityMakers\Meteorites\Meteorites.map" /debug /machine:I386 /nodefaultlib /out:"c:\RealityMakers\Meteorites\Meteorites.dll" /implib:"c:\develop\projects\Reality\Objects\i386-vc\Meteorites\Release/Meteorites.lib" "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating temp file "C:\TEMP\RSP2E4.tmp" with contents </nologo /G6 /MT /W2 /GX /Z7 /O2 /I ".." /I "../3dapi" /I "../3dapi/Network" /I "../3dapi/Network/Drivers" /I "../Drivers" /I "../Devices" /I "../Devices/Input" /I "../GameServer" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D MAX_PLAYERS=30 /FR"c:\develop\projects\Reality\Objects\i386-vc\Meteorites\Release/" /Fp"c:\develop\projects\Reality\Objects\i386-vc\Meteorites\Release/Meteorites.pch" /YX /Fo"c:\develop\projects\Reality\Objects\i386-vc\Meteorites\Release/" /Fd"c:\develop\projects\Reality\Objects\i386-vc\Meteorites\Release/" /FD /c 
+"C:\develop\projects\Reality\Meteorites\Scene.cpp"
+>
+Creating command line "cl.exe @C:\TEMP\RSP2E4.tmp" 
+Creating temp file "C:\TEMP\RSP2E5.tmp" with contents <libc.lib oldnames.lib wsock32.lib libdtimt.lib libsrlmt.lib libdxxmt.lib zlib.lib pnglib.lib glide2x.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /dll /profile /map:"C:\RealityMakers\Meteorites\Meteorites.map" /debug /machine:I386 /nodefaultlib /out:"c:\RealityMakers\Meteorites\Meteorites.dll" /implib:"c:\develop\projects\Reality\Objects\i386-vc\Meteorites\Release/Meteorites.lib" 
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\Background.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\BlueStrobe.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\Boost.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\CameraAI.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\Fireball.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\FirePickup.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\Flare.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\LensFlare.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\Meteorites.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\Nebula.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\Number.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\PhoneNumber.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\Planet.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\Player.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\Process_startup.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\RedStrobe.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\RockAI.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\Scene.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\ScoreViews.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\Shield.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\Shock.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\Sparcle.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\Sun.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\TextView.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\Win32_Specific.obj"
+"\develop\projects\Reality\Objects\i386-vc\Meteorites\Release\Win32_specific_conflict.obj"
+\develop\lib\3dapi.lib
+\develop\lib\Devices.lib
+\develop\lib\Interface.lib
+\develop\lib\posix.lib
+\develop\lib\Win32.lib
+\develop\lib\Drivers.lib>
+Creating command line "link.exe @C:\TEMP\RSP2E5.tmp" 
+Compiling...
+Scene.cpp
+Linking...
+   Creating library c:\develop\projects\Reality\Objects\i386-vc\Meteorites\Release/Meteorites.lib and object c:\develop\projects\Reality\Objects\i386-vc\Meteorites\Release/Meteorites.exp
+
+
+
+Meteorites.dll - 0 error(s), 0 warning(s)
